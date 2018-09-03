@@ -1,14 +1,8 @@
----
-title: Course Syllabus
----
+# Course Syllabus: SIRE 503 MEDICAL BIOINFORMATICS Academic Year 2018
 
-**SIRE 503 MEDICAL BIOINFORMATICS Academic Year 2018**
+### Date:September 18 – December 4, 2018
 
-**September 18 – December 4, 2018**
-
-**MASTER OF SCIENCE PROGRAM IN MEDICAL BIOINFORMATICS (INTERNATIONAL PROGRAM)**
-
-**FACULTY OF MEDICINE SIRIRAJ HOSPITAL**
+**MASTER OF SCIENCE PROGRAM IN MEDICAL BIOINFORMATICS (INTERNATIONAL PROGRAM), FACULTY OF MEDICINE SIRIRAJ HOSPITAL**
 
 | Date     | Time    | Room    | Topic                                                                                              | Lecturer              |
 |----------|---------|---------|----------------------------------------------------------------------------------------------------|-----------------------|
