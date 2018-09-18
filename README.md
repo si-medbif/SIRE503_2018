@@ -5,6 +5,7 @@ SIRE 503 MEDICAL BIOINFORMATICS Academic Year 2018
 --------------------------------------------------
 MASTER OF SCIENCE PROGRAM IN MEDICAL BIOINFORMATICS (INTERNATIONAL PROGRAM), 
 FACULTY OF MEDICINE SIRIRAJ HOSPITAL
+
 Course Website: [https://si-medbif.github.io/SIRE503_2018/](https://si-medbif.github.io/SIRE503_2018/)
 
 ### Date: September 18 – December 4, 2018
