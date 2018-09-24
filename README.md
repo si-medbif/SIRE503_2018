@@ -14,7 +14,7 @@ Course Website: [https://si-medbif.github.io/SIRE503_2018/](https://si-medbif.gi
 |----------|---------|---------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|
 | T Sep 18 | 9 - 12  | SIMR301 | Overview of the course & Introduction to Medical Bioinformatics & the Central Dogma [slides](./slides/L01_SIRE503_2018.pdf) | Bhoom Suktitipat      |
 |          | 13 - 16 | SIMR301 | The RNA World & Systems Biology [slides](./slides/L02_SIRE503_2018.pdf)                                                     | Varodom Charoensawan  |
-| T Sep 25 | 9 - 12  | SIMR301 | Proteomics & Application of Mass Spectrometry                                                                               | Kessiri Kongmanas     |
+| T Sep 25 | 9 - 12  | SIMR301 | Proteomics & Application of Mass Spectrometry  [slides](./slides/L03_SIRE503_2018.pdf)                                                                         | Kessiri Kongmanas     |
 |          | 13 - 16 | SIMR301 | Molecular Biology Techniques & Bioinformatics Data                                                                          | Wanna Thongnoppakhun  |
 | T Oct 2  | 9 - 12  | SIMR301 | BLAST, Primer3, and Sequence Alignment                                                                                      | Prapat Suriyaphol     |
 |          | 13 - 16 | SIMR301 | Next-generation sequencing technologies                                                                                     | Bhoom Suktitipat      |
