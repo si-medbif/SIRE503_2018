@@ -1,13 +1,14 @@
 Course Syllabus
 ===============
 
-SIRE 503 MEDICAL BIOINFORMATICS Academic Year 2018
+SIRE 503 MEDICAL BIOINFORMATICS 
+Academic Year 2018
 --------------------------------------------------
 MASTER OF SCIENCE PROGRAM IN MEDICAL BIOINFORMATICS (INTERNATIONAL PROGRAM), 
 FACULTY OF MEDICINE SIRIRAJ HOSPITAL
 
-Course Website: [https://si-medbif.github.io/SIRE503_2018/](https://si-medbif.github.io/SIRE503_2018/)
-
+- [Course Website](https://si-medbif.github.io/SIRE503_2018/)
+- [Github Repository](https://github.com/si-medbif/SIRE503_2018)
 ### Date: September 18 – December 4, 2018
 
 | Date     | Time    | Room    | Topic                                                                                                                       | Lecturer              |
@@ -142,3 +143,4 @@ Assistant professor Dr. Bhoom Suktitipat, MD, PhD
 Graduate Program in Medical Bioinformatics  
 Department of Biochemistry, Faculty of Medicine Siriraj Hospital &  
 Integrative Computational BioScience Center, Mahidol University
+
